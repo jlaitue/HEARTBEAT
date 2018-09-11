@@ -1,0 +1,6 @@
+framework module Pods_HEARTBEAT {
+  umbrella header "Pods-HEARTBEAT-umbrella.h"
+
+  export *
+  module * { export * }
+}
